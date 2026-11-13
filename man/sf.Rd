@@ -63,7 +63,7 @@ the value of the \code{attribute} is returned directly.}
 \item{n}{Number at risk.}
 }
 \value{
-A {data.table} which is stored as an attribute of
+A \code{data.table} which is stored as an attribute of
 the \code{ten} object. 
 \cr
 If \code{what="s"}, the \bold{s}urvival is returned, based on the
